@@ -6,12 +6,12 @@ url: https://eliasdefrancisco.github.io/LoroCam
 title: LoroCam App
 email: eliasdefrancisco@gmail.com
 author: Elias de Francisco Javaloyes
-description: > # "Write an awesome description for your new site here.
-  You can edit this line in _config.yml. It will appear in your document
-  head meta (for Google search results) and in your feed.xml site
-  description.
-copyright: 'Copyright &copy; 2016 Elias de Francisco Javaloyes. All Rights Reserved.'
-credits: 'Credits: LoroCam is created by <a href="https://github.com/eliasdefrancisco/">My GitHub</a>. I hope you like it!'
+description: >
+  Add sound effects to your videos while you are recording them
+  with LoroCam video camera app for Android. Laughs, applauses,
+  robots, dog barking and lots of sounds can be added easily.
+copyright: #'Copyright &copy; 2016 Elias de Francisco Javaloyes. All Rights Reserved.'
+credits: #'Credits: LoroCam is created by <a href="https://github.com/eliasdefrancisco/">My GitHub</a>. I hope you like it!'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -32,3 +32,6 @@ social:
     url:
   - title: linkedin
     url:
+
+# MIO
+getitonBadge:
