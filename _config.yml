@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://eliasdefrancisco.github.io/LoroCam
+url: http://www.lorocam.com/ #https://eliasdefrancisco.github.io/LoroCam
 title: LoroCam App
 email: eliasdefrancisco@gmail.com
 author: Elias de Francisco Javaloyes
@@ -26,12 +26,7 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url:
   - title: github
-    url:
-  - title: linkedin
-    url:
-
-# MIO
-getitonBadge:
+    url: https://eliasdefrancisco.github.io/LoroCam/
+  - title: googleplay
+    url: https://play.google.com/store/apps/details?id=com.arcadexxi.lorocam_sdk22

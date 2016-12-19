@@ -1,0 +1,13 @@
+---
+layout: default
+img: Screenshot_lorocam_sounds3.png
+category: tips
+title: Add sound effects to your videos
+description: |
+---
+Adding sounds to your videos never was so easy, you only have to start recording and
+press the button of the sound you want to play.<br/>
+Many sounds can be played at time, then you can combine some sounds as easy as pressing some buttons quickly.<br/>
+A great combination in example are pressing the clap button many times and mixing with laughs.<br/>
+
+<!-- This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io). -->

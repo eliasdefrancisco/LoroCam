@@ -1,0 +1,14 @@
+---
+layout: default
+img: Screenshot_lorocam_ui2.png
+category: tips
+title: Adjust sound volume
+description: |
+---
+LoroCam always shows you a sound meter bar which what you can easily calibrate the volume of
+the sound effects.<br/>
+You only have to push the sound buttons and watch the sound meter bar doesn't turn red so often.<br/>
+To adjust the volume only turn it up or down on the volume slide bar.<br/>
+Make a few videos and listen to them before recording your final, thats the best thing you can do.<br/>
+
+<!-- This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io). -->

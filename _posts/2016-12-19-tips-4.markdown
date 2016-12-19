@@ -1,0 +1,16 @@
+---
+layout: default
+img: Screenshot_lorocam.png
+category: tips
+title: LoroCam is unique
+description: |
+---
+No other app can do what LoroCam does.<br/><br/>
+You can find LoroCam in two flavors:
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.arcadexxi.lorocam_sdk22">LoroCam</a> is the free version, I only earn money for the ads.</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.arcadexxi.lorocamplus_sdk22">LoroCam+</a> the paid version, very economical (as a coffee) if you don't want watching ads.</li>
+</ul>
+I hope you enjoy it!
+
+<!-- This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io). -->

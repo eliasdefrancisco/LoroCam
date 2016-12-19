@@ -1,0 +1,14 @@
+---
+layout: default
+img: Screenshot_lorocam_ui1.png
+category: tips
+title: Record your awesome videos
+description: |
+---
+You can record yourself or a friend telling a joke and add the laugh sound.<br/>
+Or make a video from your puppet theater with incredible sound effects.<br/>
+With LoroCam and your imagination you can make very funny videos of whatever you want
+easly and quickly.<br/>
+Is has a lot of sounds that you can play.<br/>
+
+<!-- This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io). -->
